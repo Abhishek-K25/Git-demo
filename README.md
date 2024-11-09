@@ -1,3 +1,3 @@
 # Git-demo
 
-Name of author: Abhishek khedekar
+Name of author: Abhishek (demo git)
